@@ -18,6 +18,6 @@ The textures in the res folder were downloaded from that site as well; all credi
 
 ## TODO
 * Add sound
-* add entities
+* add entities (enemies, weapons, pickups)
 * Load maps from text files
 * make better comments
