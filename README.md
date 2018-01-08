@@ -19,3 +19,4 @@ The textures in the res folder were downloaded from that site as well; all credi
 * Add sound
 * add entities
 * Load maps from text files
+* make better comments
