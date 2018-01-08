@@ -10,6 +10,7 @@ Make jar is to build an executable jar file.
 
 make clean is to remove the class files and the jar.
 
+Keep in mind that the res folder MUST be in the same place as the jar (it is not put inside the jar during build).
 ## Credits
 http://www.instructables.com/id/Making-a-Basic-3D-Engine-in-Java/
 
