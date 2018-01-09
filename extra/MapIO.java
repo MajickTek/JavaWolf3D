@@ -50,7 +50,7 @@ public class MapIO {
 	
 	
 	public static void main (String[] args)  {
-		double[][] data = {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
+		int[][] data = {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
 		MapIO dumper = new MapIO();
 		try {
 			System.out.println("write to console 1");
