@@ -2,7 +2,8 @@ all:
 	javac *.java
 	java Game
 jar:
-	jar cvfe Engine.jar Game *.class
+	jar cvfe 3DEngine.jar Game *.class
+	rm *.class
 clean:
 	rm *.class
 	rm *.jar
