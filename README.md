@@ -19,6 +19,7 @@ The textures in the res folder were downloaded from that site as well; all credi
 ## TODO
 * Add sound
 * add entities (enemies, weapons, pickups)
+* add objects/obstacles (berrels, pillars, ceiling lights).
 * Load maps from text files/binary files - almost done, just need to integrate it into the engine
 * make better comments
 * floor and ceiling
