@@ -96,6 +96,7 @@ public class Game extends JFrame implements Runnable{
 				delta--;
 			}
 			render();//displays to the screen unrestricted time
+			//System.out.println("now: "+now+"; delta: "+delta+"; lastTime: "+lastTime); //debug purposes
 		}
 	}
 	public static void main(String [] args) {
