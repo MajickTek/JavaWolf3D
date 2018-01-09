@@ -14,7 +14,7 @@ Keep in mind that the res folder MUST be in the same place as the jar (it is not
 ## Credits
 http://www.instructables.com/id/Making-a-Basic-3D-Engine-in-Java/
 
-The textures in the res folder were downloaded from that site as well; all credits to ID Software (as they are Wolf3D textures).
+The textures in the res folder were downloaded from that site as well; all credits to the person who made them (no Wolfenstein 3D textres have been used).
 
 ## TODO
 * Add sound
