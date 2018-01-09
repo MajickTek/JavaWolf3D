@@ -60,7 +60,7 @@ public class MapIO {
 			dumper.write(data, "dump.dat");
 			
 			System.out.println("read from file");
-			double[][] data2 = dumper.getIntegerTwoDimArray("dump.dat");
+			int[][] data2 = dumper.getIntegerTwoDimArray("dump.dat");
 			
 			System.out.println("write to console 2");
 			dumper.write(data2);
