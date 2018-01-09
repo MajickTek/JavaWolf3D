@@ -24,7 +24,7 @@ public class MapIO {
 		writer.close();
 	}
 	
-	public void write(double[][] data) throws java.io.IOException {
+	public void write(int[][] data) throws java.io.IOException {
 		write(data, new OutputStreamWriter(System.out));
 	}
 	
@@ -43,7 +43,7 @@ public class MapIO {
 	
 	public int[][] getIntegerTwoDimArray(String fileName) throws java.io.IOException {
 		Reader reader = new FileReader(fileName);
-		int[][] data = IntegerTwoDimArray(reader);
+		int[][] data = getIntegerTwoDimArray(reader);
 		reader.close();
 		return data;
 	}
