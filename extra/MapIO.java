@@ -32,7 +32,7 @@ public class MapIO {
 		BufferedReader reader = new BufferedReader(baseReader);
 		int rows = Integer.parseInt(reader.readLine());
 		int cols = Integer.parseInt(reader.readLine());
-		int [][] data = new double[rows][cols];
+		int [][] data = new int[rows][cols];
 		for(int row=0; row<rows; row++) {
 			for(int col=0; col<cols; col++) {
 				data[row][col] = Integer.parseInt(reader.readLine());
