@@ -43,4 +43,5 @@ public class Texture {
 	
 	public static Texture Wolf3D_eagle = new Texture("res/Wolf3D/eagle.png", 64);
 	public static Texture Wolf3D_pillar = new Texture("res/Wolf3D/wood.png", 64);
+	public static Texture Wolf3D_greenlight = new Texture("res/Wolf3D/greenlight.png", 64);
 }
