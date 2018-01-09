@@ -38,4 +38,6 @@ public class Texture {
 	
 	public static Texture Wolf3D_colorstone = new Texture("res/Wolf3D/colorstone.png", 64);
 	public static Texture Wolf3D_purplestone = new Texture("res/Wolf3D/purplestone.png", 64);
+	public static Texture Wolf3D_mossy = new Texture("res/Wolf3D/mossy.png", 64);
+	
 }
