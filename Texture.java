@@ -30,4 +30,9 @@ public class Texture {
 	public static Texture brick = new Texture("res/redbrick.jpg", 64);
 	public static Texture bluestone = new Texture("res/bluestone.jpg", 64);
 	public static Texture stone = new Texture("res/greystone.jpg", 64);
+	
+	public static Texture Wolf3D_wood = new Texture("res/Wolf3D/wood.png", 64);
+	public static Texture Wolf3D_brick = new Texture("res/Wolf3D/redbrick.png", 64);
+	public static Texture Wolf3D_bluestone = new Texture("res/Wolf3D/bluestone.png", 64);
+	public static Texture Wolf3D_stone = new Texture("res/Wolf3D/greystone.png", 64);
 }
