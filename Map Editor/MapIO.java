@@ -1,6 +1,6 @@
 import java.io.*;
 
-//the WIP int version of Arraydump
+//Create a "map file" from a 2D Int Array. Map files are just array dumps
 public class MapIO {
 	
 	public void write(int[][] data, Writer baseWriter) throws java.io.IOException {
