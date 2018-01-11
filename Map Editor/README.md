@@ -2,12 +2,7 @@ Map Editor
 ===
 
 # Info
-Currently this is not really a map editor, here is the editing process:
-
-* create a 2D int array by hand
-* dump it into a file
-
-The game just loads this data from the file and changes it to an "array" of textures and then displays them on screen.
+MapIO.java takes a 2D array of integers and dumps it into a file.
 
 However, this is not a really great way of making maps. It is simple, but not user-friendly. So this is what i am thinking:
 
