@@ -19,4 +19,6 @@ http://discourse.mapeditor.org/t/any-chance-of-an-option-to-export-the-map-as-a-
 Explanation of CSV (in Java): https://www.mkyong.com/java/how-to-read-and-parse-csv-file-in-java/
 Also exporting map arrays to csv may be done with this: http://www.mkyong.com/java/how-to-export-data-to-csv-file-java/
 
+Finally, Wikipedia: https://en.wikipedia.org/wiki/Comma-separated_values
+
 I will include tilesets for Tiled (and a basic map) if i get this working.
