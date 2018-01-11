@@ -16,4 +16,6 @@ Use Tiled as the map editor and export the maps as CSV (comma-separated values),
 An example of how to do this is here:
 http://discourse.mapeditor.org/t/any-chance-of-an-option-to-export-the-map-as-a-csv-where-each-cell-is-the-tile-image-name/59/14
 
+Explanation of CSV (in Java): https://www.mkyong.com/java/how-to-read-and-parse-csv-file-in-java/
+
 I will include tilesets for Tiled (and a basic map) after i get this working.
