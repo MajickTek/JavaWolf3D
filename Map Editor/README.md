@@ -17,3 +17,5 @@ Also exporting map arrays to csv may be done with this: http://www.mkyong.com/ja
 Finally, Wikipedia: https://en.wikipedia.org/wiki/Comma-separated_values
 
 I will include tilesets for Tiled (and a basic map) if i get this working.
+
+There is now a CSV version of the demo map in res/maps/demo.csv .
