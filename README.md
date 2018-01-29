@@ -27,3 +27,4 @@ The code has references to Wolfenstein3D textures (which are in the res/Wolf3D f
 * make better comments
 * floor and ceiling
 * spritesheet support for textures
+* fps (frames per second) counter
