@@ -6,6 +6,7 @@ import java.awt.image.DataBufferInt;
 import java.util.ArrayList;
 import javax.swing.JFrame;
 
+//This class has the main game loop and map data
 public class Game extends JFrame implements Runnable{
 	
 	private static final long serialVersionUID = 1L;
