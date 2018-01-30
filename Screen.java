@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.awt.Color;
 
+//this class contains most of the actual raycasting
 public class Screen {
 	public int[][] map;
 	public int mapWidth, mapHeight, width, height;
