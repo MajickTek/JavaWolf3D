@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
+//This class contains image utilities
 public class Texture {
 	public int[] pixels;
 	private String loc;
@@ -26,11 +27,13 @@ public class Texture {
 		}
 	}
 	
+	//Textures not made by me, credits to author
 	public static Texture wood = new Texture("res/wood.jpg", 64);
 	public static Texture brick = new Texture("res/redbrick.jpg", 64);
 	public static Texture bluestone = new Texture("res/bluestone.jpg", 64);
 	public static Texture stone = new Texture("res/greystone.jpg", 64);
 	
+	/* //Commented out for obvious reasons (copyright)
 	public static Texture Wolf3D_wood = new Texture("res/Wolf3D/wood.png", 64);
 	public static Texture Wolf3D_brick = new Texture("res/Wolf3D/redbrick.png", 64);
 	public static Texture Wolf3D_bluestone = new Texture("res/Wolf3D/bluestone.png", 64);
@@ -44,4 +47,5 @@ public class Texture {
 	public static Texture Wolf3D_eagle = new Texture("res/Wolf3D/eagle.png", 64);
 	public static Texture Wolf3D_pillar = new Texture("res/Wolf3D/wood.png", 64);
 	public static Texture Wolf3D_greenlight = new Texture("res/Wolf3D/greenlight.png", 64);
+	*/
 }
