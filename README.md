@@ -23,7 +23,7 @@ The code has references to Wolfenstein3D textures (which are in the res/Wolf3D f
 * add entities (enemies, weapons, pickups)
 * add objects/obstacles (berrels, pillars, ceiling lights).
 * Load maps from text files/binary files - almost done, just need to integrate it into the engine
-* ^ needs way of loadng maps from an actual level editor such as Tiled ^
+* ^ needs way of loading maps from an actual level editor such as Tiled ^
 * make better comments
 * floor and ceiling
 * spritesheet support for textures
