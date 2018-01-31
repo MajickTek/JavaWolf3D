@@ -1,4 +1,5 @@
 //Cleans up CSV files exported from Tiled
+//Simply choose the CSV file as the first argument.
 
 import java.io.*;
 
