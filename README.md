@@ -28,3 +28,5 @@ The code has references to Wolfenstein3D textures (which are in the res/Wolf3D f
 * floor and ceiling
 * spritesheet support for textures
 * fps (frames per second) counter
+* actual Wolf3D compatibility
+* BIG ONE: adding advance raycasting techniques such as from lodev.org and http://archive.gamedev.net/archive/reference/articles/article872.html
