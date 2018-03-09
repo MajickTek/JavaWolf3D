@@ -6,7 +6,7 @@ Use the makefile to build and run the program.
 
 make all is to build and run it.
 
-Make jar is to build an executable jar file.
+Make jar is to build an executable jar file. (requires that you at least type "make build" beforehand)
 
 make clean is to remove the class files and the jar.
 
