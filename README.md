@@ -16,7 +16,8 @@ http://www.instructables.com/id/Making-a-Basic-3D-Engine-in-Java/
 
 The textures in the res folder were downloaded from that site as well; all credits to the person who made them.
 
-The code has references to Wolfenstein3D textures (which are in the res/Wolf3D folder). All of these textures are Copyright(C) ID Software. All rights reserved.
+All included Wolf3D textures are Copyright(C) ID Software. All rights reserved.
+I hold them here with the promise that they will not be sold for real/"fake" money.
 
 ## TODO
 * Add sound
